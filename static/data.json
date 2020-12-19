@@ -1,0 +1,93 @@
+{
+    "status": 0,
+    "message01": [
+        {
+            "id": 0,
+            "linkTo": "/public/marketIndex?name=大盘指数",
+            "iconName": "cash-back-record",
+            "color": "#1989fa",
+            "desc": "大盘指数"
+        },
+        {
+            "id": 1,
+            "linkTo": "/public/stockRegister?name=股票开户",
+            "iconName": "phone-o",
+            "color": "rgb(233,49,49)",
+            "desc": "股票开户"
+        },
+        {
+            "id": 2,
+            "linkTo": "/public/stockIntroduction?name=股市入门",
+            "iconName": "home-o",
+            "color": "#1989fa",
+            "desc": "股市入门"
+        },
+        {
+            "id": 3,
+            "linkTo": "/public/stockChoice?name=选股",
+            "iconName": "search",
+            "color": "#1989fa",
+            "desc": "选股"
+        }
+    ],
+    "message02": [
+        {
+            "id": 4,
+            "linkTo": "/public/hotTongHuaShun/hotLoader?name=同花顺热榜",
+            "iconName": "hot-o",
+            "color": "#1989fa",
+            "desc": "同花顺热榜"
+        },
+        {
+            "id": 5,
+            "linkTo": "/public/lineK?name=智能盯盘",
+            "iconName": "vip-card-o",
+            "color": "rgb(233,49,49)",
+            "desc": "智能盯盘"
+        },
+        {
+            "id": 6,
+            "linkTo": "/public/punchRecord?name=打卡记录",
+            "iconName": "notes-o",
+            "color": "#f35e5e",
+            "desc": "打卡记录"
+        },
+        {
+            "id": 7,
+            "linkTo": "/public/more?name=全部应用功能",
+            "iconName": "qr",
+            "color": "rgb(99, 96, 96)",
+            "desc": "更多"
+        }
+    ],
+    "new":[
+        {
+            "id": 8,
+            "linkTo": "/",
+            "iconName": "cash-on-deliver",
+            "color": "#f35e5e",
+            "desc": "资金流向"
+        },
+        {
+            "id": 9,
+            "linkTo": "/",
+            "iconName": "filter-o",
+            "color": "rgb(99, 96, 96)",
+            "desc": "决策"
+        },
+        {
+            "id": 10,
+            "linkTo": "/",
+            "iconName": "aim",
+            "color": "#f35e5e",
+            "desc": "投资参考"
+        },
+        {
+            "id": 11,
+            "linkTo": "/",
+            "iconName": "medal-o",
+            "color": "rgb(99, 96, 96)",
+            "desc": "龙虎榜"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "status": 0,
+    "message": {
+        "china":[
+            {
+                "name": "上证指数",
+                "data01": 3419.68,
+                "data02": "0.36%",
+                "pic":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606674734600&di=cc0ff4725b70c89024031b7f285a0881&imgtype=0&src=http%3A%2F%2Ff.hiphotos.baidu.com%2Fbaike%2Fs%253D600%253Bq%253D50%2Fsign%3Daf01948efed3572c62e29fdcba28121a%2F9358d109b3de9c8274883ae86081800a18d843ec.jpg"
+            },
+            {
+                "name": "创业板指",
+                "data01": 384.68,
+                "data02": "2.54%",
+                "pic":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606674734600&di=cc0ff4725b70c89024031b7f285a0881&imgtype=0&src=http%3A%2F%2Ff.hiphotos.baidu.com%2Fbaike%2Fs%253D600%253Bq%253D50%2Fsign%3Daf01948efed3572c62e29fdcba28121a%2F9358d109b3de9c8274883ae86081800a18d843ec.jpg"
+            },
+            {
+                "name": "科创50",
+                "data01": 1930.45,
+                "data02": "3.12%",
+                "pic":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606674734600&di=cc0ff4725b70c89024031b7f285a0881&imgtype=0&src=http%3A%2F%2Ff.hiphotos.baidu.com%2Fbaike%2Fs%253D600%253Bq%253D50%2Fsign%3Daf01948efed3572c62e29fdcba28121a%2F9358d109b3de9c8274883ae86081800a18d843ec.jpg"
+            },
+            {
+                "name": "沪深300",
+                "data01": 3449.68,
+                "data02": "-3.36%",
+                "pic":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606674734600&di=cc0ff4725b70c89024031b7f285a0881&imgtype=0&src=http%3A%2F%2Ff.hiphotos.baidu.com%2Fbaike%2Fs%253D600%253Bq%253D50%2Fsign%3Daf01948efed3572c62e29fdcba28121a%2F9358d109b3de9c8274883ae86081800a18d843ec.jpg"
+            }
+        ],
+        "other": [
+            {
+                "name": "日经指数",
+                "data01": 3419.68,
+                "data02": "-0.36%",
+                "pic":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606725471814&di=d6efd0ba49dc5c1c2b9e1586b30e48ec&imgtype=0&src=http%3A%2F%2Fup.bizhitupian.com%2Fpic_360%2Fc0%2Fce%2Fc9%2Fc0cec934d6578a9ef1a4b407f0b05ae3.jpg"
+            },
+            {
+                "name": "韩国综合",
+                "data01": 384.68,
+                "data02": "2.54%",
+                "pic":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606725511855&di=a548bf88873ffcfe3195061c044436c3&imgtype=0&src=http%3A%2F%2Fpic.rmb.bdstatic.com%2Fc723a6915185e4d07f2b0eee03971664.jpeg%40c_1%2Cw_640%2Ch_396%2Cx_0%2Cy_0"
+            },
+            {
+                "name": "印度孟买",
+                "data01": 1930.45,
+                "data02": "-3.12%",
+                "pic":"https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3427235033,2091393078&fm=26&gp=0.jpg"
+            },
+            {
+                "name": "新西兰NZ50",
+                "data01": 3449.68,
+                "data02": "3.36%",
+                "pic":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606725581193&di=5dee2f2b11e40555d9287ff2a6314f45&imgtype=0&src=http%3A%2F%2Fdpic.tiankong.com%2F37%2Frp%2FQJ6509155720.jpg%3Fx-oss-process%3Dstyle%2Fshow"
+            }
+        ]
+    }
+}

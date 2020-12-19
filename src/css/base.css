@@ -1,0 +1,84 @@
+html,body,ul,li,img,a,p {
+	padding:0;
+	margin:0;
+	/*设置盒子模型*/
+	box-sizing: border-box;
+	/*去除移动端特有的点击高亮效果，比如创建一个div元素，手放上去之后会有hover效果*/
+	-webkit-tap-highlight-color: transparent;
+}
+*{
+    box-sizing: border-box;
+}
+body{
+	font-size: 13px;
+}
+a,
+a:hover {   /*去掉a链接的默认样式*/
+	color:#666;
+	text-decoration: none;
+}
+ul{
+	list-style:none;
+}
+input {
+	/*清除文本框获取焦点时磨人的边框阴影*/
+	outline: none;
+	/*去除边框*/
+	border: none;
+	/*添加边框*/
+	border: 1px solid #ccc;
+}
+/*清除浮动*/
+.clearfix::before,
+.clearfix::after {
+	content: '';
+	height:0;
+	display: block;
+	line-height:0;
+	clear:both;
+	visibility: hiddle;
+}
+
+/*新添一些可以重复利用的样式*/
+.float_r {
+	float: right
+}
+.float_l {
+	float: left;
+}
+
+@media screen and (max-device-width: 425px){
+    html {
+        font-size: 21.25px;
+    }
+}
+@media screen and (max-device-width: 414px){
+    html {
+        font-size: 20.7px;
+    }
+}
+@media screen and (max-device-width: 411px){
+    html {
+        font-size: 20.55px;
+    }
+}
+@media screen and (max-device-width: 394px){
+    html {
+        font-size: 19.65px;
+    }
+}
+@media screen and (max-device-width: 375px){
+    html {
+        font-size: 17.85px;
+    }
+}
+@media screen and (max-device-width: 360px){
+    html {
+        font-size: 18px;
+    }
+}
+@media screen and (max-device-width: 320px){
+    html {
+        font-size: 16px;
+    }
+}

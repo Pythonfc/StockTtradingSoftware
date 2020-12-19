@@ -1,0 +1,20 @@
+{
+    "status":0,
+    "message":[
+        {
+            "icon": "cash-back-record",
+            "data01": "T+0 交易",
+            "data02": "当日随时买卖"
+        },
+        {
+            "icon": "after-sale",
+            "data01": "双向交易",
+            "data02": "涨做多跌做空"
+        },
+        {
+            "icon": "certificate",
+            "data01": "日盘 + 夜盘",
+            "data02": "行情机会翻倍"
+        }
+    ]
+}

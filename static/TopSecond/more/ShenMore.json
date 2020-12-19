@@ -1,0 +1,125 @@
+{
+    "status":0,
+    "message": [
+        {
+            "name": "上证指数",
+            "uplength": "1.14%",
+            "upDown": "38.58",
+            "precent": 0.93
+        },
+        {
+            "name": "深证成指",
+            "uplength": "0.67%",
+            "upDown": "90.89",
+            "precent": 0.87
+        },
+        {
+            "name": "创业板指",
+            "uplength": "0.37%",
+            "upDown": "9.60",
+            "precent": 0.89
+        },
+        {
+            "name": "沪深300",
+            "uplength": "1.24%",
+            "upDown": "61.18",
+            "precent": 1.02
+        },
+        {
+            "name": "上证50",
+            "uplength": "1.54%",
+            "upDown": "52.92",
+            "precent": 1.44
+        },
+        {
+            "name": "中证500",
+            "uplength": "0.27%",
+            "upDown": "17.31",
+            "precent": 0.81
+        },
+        {
+            "name": "科创50",
+            "uplength": "0.18%",
+            "upDown": "2.46",
+            "precent": 0.93
+        },
+        {
+            "name": "富时A50",
+            "uplength": "1.44%",
+            "upDown": "239.66",
+            "precent": 1.01
+        },
+        {
+            "name": "富时A200",
+            "uplength": "1.35%",
+            "upDown": "176.47",
+            "precent": 1.23
+        },
+        {
+            "name": "中小板指",
+            "uplength": "0.96%",
+            "upDown": "85.71",
+            "precent": 0.87
+        },
+        {
+            "name": "上证180",
+            "uplength": "1.41%",
+            "upDown": "143.04",
+            "precent": 10.14
+        },
+        {
+            "name": "上证380",
+            "uplength": "0.15%",
+            "upDown": "8.135",
+            "precent": 0.78
+        },
+        {
+            "name": "创业板50",
+            "uplength": "0.39%",
+            "upDown": "19.62",
+            "precent": 0.88
+        },
+        {
+            "name": "深证综指",
+            "uplength": "0.34%",
+            "upDown": "27.65",
+            "precent": 0.87
+        },
+        {
+            "name": "深证100R",
+            "uplength": "0.98%",
+            "upDown": "80.89",
+            "precent": 0.86
+        },
+        {
+            "name": "B股指数",
+            "uplength": "-0.53%",
+            "upDown": "11.31",
+            "precent": 1.401
+        },
+        {
+            "name": "新指数",
+            "uplength": "0.46%",
+            "upDown": "46.76",
+            "precent": 0.87
+        },
+        {
+            "name": "深成指R",
+            "uplength": "0.67%",
+            "upDown": "112.82",
+            "precent": 0.86
+        },
+        {
+            "name":"成分B指" ,
+            "uplength": "2.14%",
+            "upDown": "139.25",
+            "precent": 1.23
+        },
+        {
+            "name": "央视50",
+            "uplength": "1.23%",
+            "upDown": "106.53",
+            "precent": 1.67
+        }
+    ]
+}
